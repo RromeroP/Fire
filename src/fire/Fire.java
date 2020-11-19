@@ -26,7 +26,7 @@ public class Fire {
         // TODO code application logic here
         int WIDTH = 800;
         int HEIGHT = 400;
-        int COOLING = -1;
+        int COOLING = 0;
         
         BufferedImage IMG = new BufferedImage(WIDTH, HEIGHT, BufferedImage.TYPE_3BYTE_BGR);
 
